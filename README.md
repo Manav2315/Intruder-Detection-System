@@ -42,7 +42,7 @@ Ultralytics YOLOv8 excels in real-time detection and higher accuracy. Its unique
 
 ## Screenshots
 
-![Detection](https://drive.google.com/file/d/1SRoUiOHCv6RQxCsU7eOrdBtDRqWsDGaO/view?usp=sharing)
+![Detection](![Screenshot 2024-07-12 125817](https://github.com/user-attachments/assets/c1b2225f-d31b-49a1-9352-f51e8fa94c5c))
 
 ![Generated Alert](https://drive.google.com/file/d/1-7iL_RHMt4DsqKjPOB-YJxms2X-zVu0F/view?usp=sharing)
 
